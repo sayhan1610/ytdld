@@ -28,7 +28,8 @@ A simple Python CLI tool to download **audio-only MP3s (192 kbps)** from a list 
 1. Clone the repo or download ZIP:
    ```bash
    git clone https://github.com/sayhan1610/ytdld.git
-   cd ytdld```
+   cd ytdld
+   ```
 
 2. Install dependencies:
 
